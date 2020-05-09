@@ -101,9 +101,10 @@
             this.lTelefono.AutoSize = true;
             this.lTelefono.Location = new System.Drawing.Point(535, 56);
             this.lTelefono.Name = "lTelefono";
-            this.lTelefono.Size = new System.Drawing.Size(49, 13);
+            this.lTelefono.Size = new System.Drawing.Size(32, 13);
             this.lTelefono.TabIndex = 7;
-            this.lTelefono.Text = "Telefono";
+            this.lTelefono.Text = "Movil";
+            this.lTelefono.Click += new System.EventHandler(this.lTelefono_Click);
             // 
             // button1
             // 

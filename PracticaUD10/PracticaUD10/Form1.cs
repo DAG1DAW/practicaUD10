@@ -16,5 +16,10 @@ namespace PracticaUD10
         {
             InitializeComponent();
         }
+
+        private void lTelefono_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
