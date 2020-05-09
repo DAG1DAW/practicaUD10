@@ -109,9 +109,9 @@
             this.lTelefono.Location = new System.Drawing.Point(713, 69);
             this.lTelefono.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lTelefono.Name = "lTelefono";
-            this.lTelefono.Size = new System.Drawing.Size(64, 17);
+            this.lTelefono.Size = new System.Drawing.Size(32, 13);
             this.lTelefono.TabIndex = 7;
-            this.lTelefono.Text = "Telefono";
+            this.lTelefono.Text = "Movil";
             // 
             // button1
             // 
